@@ -1,0 +1,1 @@
+console.log('This is dir1.js file.');
